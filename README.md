@@ -1,6 +1,6 @@
-- Hi there 👋 
+ **Hi there** 👋 
 
-- I am Software Professional with experience in developement and cloud 
+ I am Software Professional with experience in Developement DevOps and Cloud 
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
